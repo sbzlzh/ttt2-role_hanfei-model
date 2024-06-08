@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cso2/tr/hasan/tr_hasan_hair"
+	"$bumpmap" "models/cso2/tr/hasan/tr_hasan_hair_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$energyconservative" "1"
+	"$blinn_fresnel" "1"
+	"$bumpscale" "1.00"
+	"$reflectivity" "0.30"
+	"$gloss" "0.24"
+	"$fresnel" "0.30"
+	"$wrap" "0.8"
+	"$wraptexture" "dev/skin_wrap"
+	"$rimscale" "0.1"
+	"$rimpower" "0.1"
+	"$rimcolorblend" "0.5"
+	"$rimmask" "0.8"
+	// $translucent  1
+	"$nocull" "1"
+	"$alphatest" "1"
+	"$ALPHATESTREFERENCE" "0.1"
+}

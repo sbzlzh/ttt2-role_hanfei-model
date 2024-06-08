@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/cso2/tr/hasan/male_eyeball_r"
+	"$iris" "models/cso2/ct/gign/cso2_gign_pupil_r"
+	"$cso2lighting" "1"
+}
